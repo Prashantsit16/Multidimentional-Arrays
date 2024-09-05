@@ -20,6 +20,19 @@ Array sum and multiplication
 Array sum of diagnols
 
 Transpose of matrix
+OUTPUT
+1.input and display
+![Screenshot 2024-09-05 145305](https://github.com/user-attachments/assets/13202ca6-e98e-4b5e-8a8e-6e468ea702bc)
+
+2.Array sum and multiplication
+![Screenshot 2024-09-05 145314](https://github.com/user-attachments/assets/5759f659-56a7-4cd8-86dd-c221a7ca791c)
+![image](https://github.com/user-attachments/assets/5ed27d41-7c3f-4e35-8992-e868f79df430)
+
+3.Array sum of diagnols
+![Screenshot 2024-09-05 145343](https://github.com/user-attachments/assets/b7639923-ad1b-4fae-b4e4-255919cc830c)
+
+4.Transpose of matrix
+![Screenshot 2024-09-05 145356](https://github.com/user-attachments/assets/7d3ce983-2d44-468a-9ab6-7b2d50a433b7)
 
 Conclusion:
 we learnt abouut 2D matrix and it's implementation.
